@@ -1,4 +1,4 @@
-# shougi-club-web
+# vue pj template
 
 ## Project setup
 ```
